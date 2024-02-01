@@ -5,8 +5,8 @@ Code of paper "An Objective Quantitative Diagnosis of Depression Using Local-to-
 Content includes source code for the implementation of local-to-global multi-modal fusion graph neural network on large multi-site MDD fMRI datasets for major depressive disorder diagnosis.
 
 ## Requirements
-python >= 3.8
-torch = 1.13.0
+- python >= 3.8
+- torch = 1.13.0
 torch-cluster = 1.6.1+pt113cu117
 torch-geometric = 2.3.1
 torch-scatter = 2.1.1+pt113cu117
