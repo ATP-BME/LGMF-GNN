@@ -1,5 +1,5 @@
 # LGMF-GNN
-Code of paper "An Objective Quantitative Diagnosis of Depression Using Local-to-global Multi-modal Fusion Graph Neural Network"
+Code of paper "An Objective Quantitative Diagnosis of Depression Using a Local-to-global Multi-modal Fusion Graph Neural Network"
 
 ## Overview
 Content includes source code for the implementation of local-to-global multi-modal fusion graph neural network on large multi-site MDD fMRI datasets for major depressive disorder diagnosis.
